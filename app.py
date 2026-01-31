@@ -36,4 +36,3 @@ if st.button("📈 Generar Gráfico de Dispersión"):
     
     # Mostrar el gráfico
     st.plotly_chart(fig_scatter, use_container_width=True)
-
